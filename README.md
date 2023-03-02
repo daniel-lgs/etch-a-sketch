@@ -1,4 +1,4 @@
-# Etch A Sketch
+# Etch A Sketch ✒️
 
 The classic drawing toy can now be played on your computer's desktop.
 
